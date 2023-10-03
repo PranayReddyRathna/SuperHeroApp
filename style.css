@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: black;
+    color:brown;
+    margin-top: 10%;
+}
+button{
+    color:black;
+    background-color: rgb(31, 125, 54);
+}
+#searchfor{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
